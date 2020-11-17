@@ -1,0 +1,15 @@
+.checked{
+    text-decoration: line-through;
+
+}
+
+.todolistelement:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+
+}
+
+.todoListMain{
+width: max-content;
+}
+
